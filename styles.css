@@ -1,0 +1,23 @@
+*{
+    margin: 0;padding: 0;
+}
+.container{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     width: 100vw;
+     height: 100vh;
+     background-color: black;
+    flex-direction: column;
+}
+h1{
+    color: rgb(217, 194, 238);
+    font-size: 13vw;
+   
+}
+h2{
+    color: rgb(217, 194, 238);
+    font-size: 9vw;
+    
+}
